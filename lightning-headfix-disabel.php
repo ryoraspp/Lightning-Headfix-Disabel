@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Lightning Headfix Disabel
+ * Plugin URI: https://github.com/ryoraspp/Lightning-Headfix-Disabel
  * Version: 1
  * Author: ryoraspp
  * Author URI: https:/ryo.nagoya
